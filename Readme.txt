@@ -1,8 +1,8 @@
 Bugs Bunny Crazy Castle Randomizer
-Version 1.01
-Released 10/26/21
+Version 1.02
+Released 11/26/21
 
-Version 1.01 adds compatibility for passwords for randomized levels. Now when you remember the password for a level it will continue where you left off in the list of levels.
+Version 1.02 addresses some bugfixes. Read the release notes for further information.
 
 Instructions:
 
