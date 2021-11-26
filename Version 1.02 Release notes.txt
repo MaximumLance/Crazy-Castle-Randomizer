@@ -1,0 +1,16 @@
+11/26/21
+Version 1.02 addresses some bugs with the randomizer.
+
+- When using a password to continue where you left off, unexpected or corrupt stages could be loaded instead of what was intended.
+
+An oversight in the way the game handled getting you back in the list of randomized stages was corrected.
+
+- Players don't lose lives from dying.
+
+This is because I wanted to have players not lose a life when going to a special stage and have them lose the life inside the special stage instead if they failed. Instead it only decreased a life if you died within the special stage.
+
+As such, you will lose a life when going to a special stage like the original version, but not if you die within the special stage.
+
+- When hitting no on the continue screen, you are brought to Level 1 instead of the first randomized level.
+
+Code has been added to handle this properly now.
